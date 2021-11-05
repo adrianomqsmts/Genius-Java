@@ -16,8 +16,6 @@ Abaixo temos a interface do jogo.
 
 ## 🚀 Começando
 
-O sistema foi desenvolvido em um único projeto, juntando o cliente e o servidor, de tal modo que para que seja executado, deve levar em consideração os diferentes arquivos. 
-
 Para obter uma cópia deste projeto:
 
 ```shell
