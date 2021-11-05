@@ -2,7 +2,7 @@
 
 Atividade prática da disciplina de Programação Orientada a Objetos da 🏫 Universidade Federal de Viçosa - Campus Florestal. 
 
-Este trabalho teve como o objetivo de desenvolver um jogo baseado no jogo real GENIUS. O jogo tem um total de 8 rodadas, e a cada rodada o jogador teria alguns segundos para adivinhar a sequência de cores antes que o tempo acabasse. 
+Este trabalho teve como objetivo de desenvolver um jogo baseado no jogo real GENIUS. O jogo tem um total de 8 rodadas, e a cada rodada o jogador teria alguns segundos para adivinhar a sequência de cores antes que o tempo acabasse. 
 
 ### 💻 Interface 
 
